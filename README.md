@@ -19,5 +19,15 @@ This is my personal website where I will try to maintain stuff I want to show to
 2. Atomic Habits by James Clear
 3. So Good they can't ignore you by Cal Newport
 
+### Hobbies
+
+1. Badminton
+2. Table Tennis
+3. Chess [LiChess](https://lichess.org/@/akhilennu) & [chess.com](https://www.chess.com/member/akhilennu)
+4. Snookers
+5. 3D printing
+6. Cricket
+7. Foosball
+8. Reading (Listening to books when siri reads it for me :P)
 
 Built using [Jekyll](https://jekyllrb.com/) [documentation](https://docs.github.com/categories/github-pages-basics/)
