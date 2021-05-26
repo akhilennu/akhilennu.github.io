@@ -5,6 +5,7 @@ This is my personal website where I will try to maintain stuff I want to show to
 ### Projects
 
 1. [Screenshot Sudoku Solver](https://akhilennu.github.io/sudoku/)
+2. [Document Summarizer](https://akhilennu.github.io/document-summarizer/)
 
 ### Social media for some purpose
 
