@@ -2,6 +2,10 @@
 
 This is my personal website where I will try to maintain stuff I want to show to the world.
 
+### Personal
+
+1. [Instagram](https://www.instagram.com/akhil.ennu/)
+
 ### Projects
 
 1. [Screenshot Sudoku Solver](https://akhilennu.github.io/sudoku/) -> [Demo](https://youtu.be/xH53-Wm4uJA)
