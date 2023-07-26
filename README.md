@@ -10,7 +10,8 @@ This is my personal website where I will try to maintain stuff I want to show to
 
 1. [Screenshot Sudoku Solver](https://akhilennu.github.io/sudoku/) -> [Demo](https://youtu.be/xH53-Wm4uJA)
 2. [AI to solve minesweeper](https://youtube.com/shorts/c5ehghy_Dmc?feature=share) -> [Demo](https://youtu.be/pPeW1MU-hZA)
-3. [Document Summarizer](https://akhilennu.github.io/document-summarizer/) -> [Demo](https://youtu.be/UC9j9Xp47vU)
+3. [Tic-Tac-Toe with minimax algorithm](https://akhilennu.github.io/tic-tac-toe/)
+4. [Document Summarizer](https://akhilennu.github.io/document-summarizer/) -> [Demo](https://youtu.be/UC9j9Xp47vU)
 
 
 ### Social media for some purpose
